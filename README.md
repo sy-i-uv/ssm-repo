@@ -1,2 +1,1 @@
-# ssm-repo
-## SSM Repository
+# ssm-repo (SSM Repository)
